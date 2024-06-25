@@ -112,7 +112,7 @@ jem = ["jemallocator"]
 rp = ["rpmalloc"]
 
 # WebAssembly
-wasm = ["wasm-bindgen", "instant/wasm-bindgen", "instant/inaccurate"]
+wasm = ["wasm-bindgen", "instant/wasm-bindgen"]
 
 # --------------------------------------------------------------------------
 # T.E.S.T.   D.E.P.E.N.D.E.N.C.I.E.S
